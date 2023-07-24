@@ -1,0 +1,3 @@
+1，新建studentinformationmanagement数据库，运行SQL文件。
+2，修改resources文件夹下的c3p0-config.xml中的sql用户名和密码
+3，看你的数据库版本，如果是5.几请将lib下的mysql的jar包换成5.几

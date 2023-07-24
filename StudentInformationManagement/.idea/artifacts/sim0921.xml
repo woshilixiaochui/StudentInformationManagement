@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sim0921">
+    <output-path>D:/test</output-path>
+    <root id="archive" name="sim0921.war">
+      <element id="artifact" artifact-name="StudentInformationManagement:war exploded" />
+    </root>
+  </artifact>
+</component>
